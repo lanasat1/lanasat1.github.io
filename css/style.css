@@ -1,0 +1,133 @@
+* {
+    box-sizing:border-box; 
+
+} 
+header {
+    height: 200px;
+    width: 1550px;
+    display: inline-flex;
+    margin: 5px; 
+    color: #003896; 
+    
+}
+nav {
+    width: 1140px;
+    height: 120px;
+    margin-top: 31px;
+    margin-left: 22px;
+    background: #FF4A00;
+    display: inline-flex;
+    font-size: 24px;
+    color: #003896; 
+    border-top: solid;
+    border-bottom: solid;
+    
+}
+
+nav a {
+    height: 114px;
+    width: 222px;
+    padding: 45px;
+    padding-left: 58px;
+    font-family: Bookman Old Style; 
+    font-weight: bold;
+    margin-left: 0px;
+    margin-bottom: 40px;
+    text-decoration: none;
+            
+ }
+nav a:hover{
+    background-color: #ff5f00;
+}
+
+.map-of-places {
+    margin-left: 80px;
+    padding-bottom: 8px;
+    width: 69%;
+    float: left;
+        
+}
+.list-of-places {
+    margin-right: 50px;
+    line-height: 45px;
+    width: 20%;
+    float: right;
+    font-family: Bookman Old Style;
+    Font-size: 20px;
+    color: #0021a5;
+}
+
+h1 {
+    display: inline-block;
+    
+         
+}
+
+h2 {
+    padding-left: 9px;
+    margin: 10px;
+    margin-top: 30px; 
+    margin-bottom: 10px;
+    font-family: Bookman Old Style;
+    font-size: 32px;
+    color: #0021a5;
+    background-color: #ff732f;
+    border-bottom: solid;
+    border-left: solid;
+}
+
+
+p {
+    padding: 5px;
+    padding-left: 100px;
+    padding-right: 54px;
+    margin-left: 550px;
+    font-family: Bookman Old Style; 
+    font-size: 30px; 
+    line-height: 35px; 
+}
+
+
+aside {
+        float: left;
+         
+}
+
+.wrapper2 {
+    display: inline-block;
+    margin-left: 80px;
+    margin-top: 47px;
+    margin-bottom: 47px;
+    padding: 0px;
+    
+     
+}
+section p {
+    line-height: 10px
+
+}
+footer {
+    height: 68px;
+    width: 1550px;
+    display: inline-block;
+    margin: 5px; 
+    margin-top: 135px;
+    background-color: #003896; 
+    border: solid; 
+    border-color: #ff4a00;
+}
+
+.copyright {
+    height: 36px;
+    margin-left: 420px;
+    width: 55%;
+    padding-bottom: 1px;
+}
+footer li { 
+    color: #ff4a00
+            
+}
+
+
+
+
