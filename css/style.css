@@ -2,18 +2,17 @@
     box-sizing:border-box; 
 
 } 
-header {
-    height: 200px;
-    width: 1550px;
+.third {
+    height: 135px;
+    min-width: 88%;
     display: inline-flex;
-    margin: 5px; 
+    padding-left: 10px;
     color: #003896; 
     
 }
 nav {
-    width: 1140px;
-    height: 120px;
-    margin-top: 31px;
+    width: 1100px;
+    height: 117px;
     margin-left: 22px;
     background: #FF4A00;
     display: inline-flex;
@@ -25,14 +24,14 @@ nav {
 }
 
 nav a {
-    height: 114px;
-    width: 222px;
-    padding: 45px;
+    height: 110px;
+    width: 220px;
+    padding-top: 40px;
     padding-left: 58px;
+    padding-bottom: 9px;
     font-family: Bookman Old Style; 
     font-weight: bold;
     margin-left: 0px;
-    margin-bottom: 40px;
     text-decoration: none;
             
  }
@@ -64,9 +63,9 @@ h1 {
 }
 
 h2 {
-    padding-left: 9px;
-    margin: 10px;
-    margin-top: 30px; 
+    min-width: 80%;
+    padding-left: 20px;
+    margin-top: 10px; 
     margin-bottom: 10px;
     font-family: Bookman Old Style;
     font-size: 32px;
@@ -78,9 +77,10 @@ h2 {
 
 
 p {
-    padding: 5px;
-    padding-left: 100px;
-    padding-right: 54px;
+    width: 930px;
+    padding-top: 10px;
+    padding-left: 70px;
+    padding-right: 52px;
     margin-left: 550px;
     font-family: Bookman Old Style; 
     font-size: 20px; 
@@ -90,16 +90,21 @@ p {
 
 aside {
         float: left;
+        padding-top: 10px;
          
 }
 
 .wrapper2 {
+    min-width: 84%;
+    height: 465px;
     display: inline-block;
-    margin-left: 80px;
-    margin-top: 47px;
+    margin-left: 40px;
+    margin-top: 30px;
     margin-bottom: 47px;
-    padding: 0px;
+    padding-left: 25px;
+    padding-right: 25px;
     
+        
      
 }
 section p {
