@@ -1,4 +1,4 @@
-intristaning.github.io
+lanasat1.github.io
 ======================
 
 Hello World, welcome to my personal website
