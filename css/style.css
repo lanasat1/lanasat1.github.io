@@ -1,37 +1,35 @@
 * {
     box-sizing:border-box; 
-
+    
 } 
 .third {
-    height: 135px;
-    min-width: 88%;
+    height: 126px;
+    width: 1350px;
+    margin-left: 100px; 
+    margin-right: 50px;
     display: inline-flex;
-    padding-left: 10px;
-    color: #003896; 
+    color: #0021A5; 
     
 }
 nav {
-    width: 1100px;
-    height: 117px;
-    margin-left: 22px;
+    width: 950px;
+    height: 126px;
+    margin-left: 10px;
     background: #FF4A00;
     display: inline-flex;
-    font-size: 24px;
-    color: #003896; 
+    font-size: 18px;
+    color: #0021A5; 
     border-top: solid;
     border-bottom: solid;
-    
+    border-width: 2px;
 }
 
 nav a {
-    height: 110px;
-    width: 220px;
-    padding-top: 40px;
-    padding-left: 58px;
-    padding-bottom: 9px;
+    height: 122px;
+    width: 186px;
+    padding-top: 52px;
+    text-align: center; 
     font-family: Bookman Old Style; 
-    font-weight: bold;
-    margin-left: 0px;
     text-decoration: none;
             
  }
@@ -39,99 +37,117 @@ nav a:hover{
     background-color: #ff5f00;
 }
 
+h1 {
+    display: inline-block;
+             
+}
+
+h2 {
+    width: 1350px;
+    min-width: 90%;
+    padding-left: 50px;
+    padding-bottom: 3px;
+    margin-top: 0px;
+    margin-bottom: 25px;
+    font-family: Bookman Old Style;
+    font-size: 22px;
+    color: #ff5f00;
+    background-color: #0005A5;
+    border-bottom: solid;
+    border-width: 4px;
+}
+
+
+p {
+    padding: 10px; 
+    font-family: Bookman Old Style; 
+    font-size: 20px; 
+    line-height: 30px; 
+}
+
+
+aside {
+        float: left;
+        height: 400px;
+        margin-left: 30px;
+            
+         
+}
+
+.wrapper2 {
+    width: 1350px; 
+    height: 500px;
+    display: inline-block;
+    margin-left: 100px;
+    margin-top: 35px;
+    margin-bottom: 35px ;
+            
+     
+}
+.feature-summary p{
+    width: 700px;
+    margin-left: 600px;
+    padding-left: 20px;
+    
+
+}
+section {
+    width: 710px; 
+    height: 367px; 
+    margin-left: 60px;
+    display: inline-flex;
+        
+}
+.spot-summary p {
+    width: 450px; 
+    line-height: 32px;
+   
+}
+.spot-rank p{
+    margin-left: 60px;
+    margin-top: 30px;
+    
+    
+
+}
 .map-of-places {
-    margin-left: 80px;
-    padding-bottom: 8px;
-    width: 69%;
+    margin-left: 30px;
+    width: 64%;
     float: left;
         
 }
 .list-of-places {
-    margin-right: 50px;
-    line-height: 45px;
-    width: 20%;
+    margin-right: 30px;
+    line-height: 39px;
+    width: 25%;
     float: right;
     font-family: Bookman Old Style;
     Font-size: 20px;
     color: #0021a5;
 }
 
-h1 {
-    display: inline-block;
-    
-         
-}
-
-h2 {
-    min-width: 88%;
-    padding-left: 20px;
-    margin-top: 10px; 
-    margin-bottom: 10px;
-    font-family: Bookman Old Style;
-    font-size: 32px;
-    color: #0021a5;
-    background-color: #ff732f;
-    border-bottom: solid;
-    border-left: solid;
-}
-
-
-p {
-    width: 930px;
-    padding-top: 10px;
-    padding-left: 70px;
-    padding-right: 52px;
-    margin-left: 550px;
-    font-family: Bookman Old Style; 
-    font-size: 20px; 
-    line-height: 35px; 
-}
-
-
-aside {
-        float: left;
-        padding-top: 10px;
-         
-}
-
-.wrapper2 {
-    min-width: 88%;
-    height: 465px;
-    display: inline-block;
-    margin-left: 40px;
-    margin-top: 30px;
-    margin-bottom: 47px;
-    padding-left: 25px;
-    padding-right: 25px;
-    
-        
-     
-}
-section p {
-    line-height: 10px
-
-}
 footer {
-    height: 68px;
-    width: 1550px;
-    display: inline-block;
-    margin: 5px; 
-    margin-top: 152px;
-    background-color: #003896; 
-    border: solid; 
-    border-color: #ff4a00;
+    height: 40px;
+    width: 1350px;
+    margin-top: 25px;
+    margin-left: 100px;
+    margin-right: 50px;
+    background: #ff5f00;
+    
 }
 
 .copyright {
-    height: 36px;
-    margin-left: 420px;
-    width: 55%;
-    padding-bottom: 1px;
+    height: 35px;
+    margin-left: 260px;
+    width: 65%;
+    
 }
 footer li { 
-    color: #ff4a00
+    color: #0021A5;
+    
             
 }
+
 
 
 
